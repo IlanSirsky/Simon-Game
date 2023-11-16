@@ -17,6 +17,10 @@ body {
 
 }
 
+#start {
+  font-size: 3rem;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
